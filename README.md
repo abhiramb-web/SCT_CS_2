@@ -79,15 +79,15 @@ To decrypt the image, the user selects the encrypted image and clicks the Decryp
 
 ### Original Image
 
-![Original](screenshots/actual_image.png)
+![Original](ScreenShots/actual_image.jpg)
 
 ### Encrypted Image
 
-![Encrypted](screenshots/encrypted_image.png)
+![Encrypted](ScreenShots/encrypted_image.png)
 
 ### Decrypted Image
 
-![Decrypted](screenshots/decrypted_image.png)
+![Decrypted](ScreenShots/decrypted_image.png)
 
 ## What I Learned
 
@@ -122,7 +122,7 @@ SkillCraft Technology
 
 GitHub: https://github.com/abhiramb-web
 
-LinkedIn: https://www.linkedin.com/in/abhi-ram-08233341b/
+LinkedIn: https://www.linkedin.com/in/b-abhiram-08233341b
 
 ## License
 
