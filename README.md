@@ -35,8 +35,8 @@ SCT_CS_2
 │── requirements.txt
 │── .gitignore
 
-└── screenshots
-    │── actual_image.jpg
+└── Screenshots
+    │── actual_image.png
     │── encrypted_image.png
     │── decrypted_image.png
 ```
@@ -79,15 +79,15 @@ To decrypt the image, the user selects the encrypted image and clicks the Decryp
 
 ### Original Image
 
-![Original](ScreenShots/actual_image.png)
+![Original](Screenshots/actual_image.png)
 
 ### Decrypted Image
 
-![Decrypted](ScreenShots/decrypted_image.png)
+![Decrypted](Screenshots/decrypted_image.png)
 
 ### Encrypted Image
 
-![Encrypted](ScreenShots/encrypted_image.png)
+![Encrypted](Screenshots/encrypted_image.png)
 
 ## What I Learned
 
