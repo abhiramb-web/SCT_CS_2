@@ -36,7 +36,7 @@ SCT_CS_2
 │── .gitignore
 
 └── screenshots
-    │── actual_image.png
+    │── actual_image.jpg
     │── encrypted_image.png
     │── decrypted_image.png
 ```
