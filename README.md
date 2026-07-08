@@ -75,19 +75,19 @@ When the Encrypt button is clicked, the program reads all the RGB pixel values a
 
 To decrypt the image, the user selects the encrypted image and clicks the Decrypt button. The program generates the same key stream and applies the XOR operation again. Since XOR is a reversible operation, the original image is restored.
 
-## Screenshots
+## Screenhots
 
 ### Original Image
 
-![Original](ScreenShots/actual_image.jpg)
-
-### Encrypted Image
-
-![Encrypted](ScreenShots/encrypted_image.png)
+![Original](ScreenShots/actual_image.png)
 
 ### Decrypted Image
 
 ![Decrypted](ScreenShots/decrypted_image.png)
+
+### Encrypted Image
+
+![Encrypted](ScreenShots/encrypted_image.png)
 
 ## What I Learned
 
