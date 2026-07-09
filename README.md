@@ -79,15 +79,15 @@ To decrypt the image, the user selects the encrypted image and clicks the Decryp
 
 ### Original Image
 
-![Original](Screenshots/actual_image.png)
+![Original](projects/SCT_CS_2/Screenshots/image1.png)
 
 ### Decrypted Image
 
-![Decrypted](Screenshots/decrypted_image.png)
+![Decrypted](projects/SCT_CS_2/Screenshots/image2.png)
 
 ### Encrypted Image
 
-![Encrypted](Screenshots/encrypted_image.png)
+![Encrypted](projects/SCT_CS_2/Screenshots/image3.png)
 
 ## What I Learned
 
