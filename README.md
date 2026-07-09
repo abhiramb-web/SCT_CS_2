@@ -36,9 +36,9 @@ SCT_CS_2
 │── .gitignore
 
 └── Screenshots
-    │── actual_image.png
-    │── encrypted_image.png
-    │── decrypted_image.png
+    │── image1.png
+    │── image3.png
+    │── image2.png
 ```
 
 ## How to Run
@@ -81,13 +81,13 @@ To decrypt the image, the user selects the encrypted image and clicks the Decryp
 
 ![Original](Screenshots/image1.png)
 
-### Decrypted Image
-
-![Decrypted](Screenshots/image2.png)
-
 ### Encrypted Image
 
 ![Encrypted](Screenshots/image3.png)
+
+### Decrypted Image
+
+![Decrypted](Screenshots/image2.png)
 
 ## What I Learned
 
