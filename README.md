@@ -34,8 +34,7 @@ SCT_CS_2
 │── LICENSE
 │── requirements.txt
 │── .gitignore
-
-└── Screenshots
+|-- Screenshots
     │── image1.png
     │── image3.png
     │── image2.png
