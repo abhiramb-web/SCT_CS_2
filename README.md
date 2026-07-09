@@ -76,7 +76,7 @@ To decrypt the image, the user selects the encrypted image and clicks the Decryp
 
 ## Screenhots
 
-### Original Image
+### Output Image
 
 ![Original](Screenshots/image1.png)
 
