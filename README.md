@@ -28,16 +28,15 @@ The project also includes a graphical user interface built with Tkinter so that 
 
 ```
 SCT_CS_2
-
 │── gui.py
 │── README.md
 │── LICENSE
 │── requirements.txt
 │── .gitignore
-|-- Screenshots
-    │── image1.png
-    │── image3.png
-    │── image2.png
+└── Screenshots
+    ├── image1.png
+    ├── image2.png
+    └── image3.png
 ```
 
 ## How to Run
@@ -71,10 +70,9 @@ python gui.py
 The user first selects an image from the computer.
 
 When the Encrypt button is clicked, the program reads all the RGB pixel values and generates a deterministic key stream using a fixed key. Each RGB value is encrypted using the XOR operation. The encrypted image can then be saved to the computer.
-
 To decrypt the image, the user selects the encrypted image and clicks the Decrypt button. The program generates the same key stream and applies the XOR operation again. Since XOR is a reversible operation, the original image is restored.
 
-## Screenhots
+## Screenshots
 
 ### Output Image
 
